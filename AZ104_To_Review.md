@@ -12,6 +12,10 @@
 
 * Import or export DNS zone files with Azure CLI and Azure Portal (least effect is CLI usually)
 
+## Azure Virtual Machines
+
+* Procedure to detach and attach disks from one vm to another
+
 ## Misc
 
 * What does the data migration assistant tool do
