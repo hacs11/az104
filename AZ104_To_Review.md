@@ -8,6 +8,10 @@
 
 * Feature differences between load balancer SKUs
 
+#### Azure DNS
+
+* Import or export DNS zone files with Azure CLI and Azure Portal (least effect is CLI usually)
+
 ## Misc
 
 * What does the data migration assistant tool do
